@@ -1,4 +1,4 @@
-# Dataset link: ('https://drive.google.com/drive/folders/1_GK5RusFv2PQ0qBc15c78kcrsKEJIQbW?usp=sharing')
+Dataset link: ('https://drive.google.com/drive/folders/1_GK5RusFv2PQ0qBc15c78kcrsKEJIQbW?usp=sharing')
 
 # Python-Sql_ecommerce
 In this project, I developed a comprehensive tool that integrates SQL query execution with data analysis and visualization, utilizing Python, MySQLdb, pandas, and Matplotlib.
